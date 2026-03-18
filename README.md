@@ -1,6 +1,3 @@
-# Twist_Digital
-# Deceptive Review Detection - Technical Assessment
-
 ##  Overview
 This repository contains my complete solution to the Twist Digital AI Engineer assessment. The system is designed to detect semantic inconsistencies, psychological manipulation and stylistic fingerprinting in e commerce reviews using a multi branch NLP architecture.
 
